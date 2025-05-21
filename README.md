@@ -1,7 +1,7 @@
 # ESP32-C6 Waveshare LCD device with ST7789 TFT display and connected BME280 sensor
  Getting started with a **BME280** environment sensor connected to an **ESP32-C6 Waveshare LCD** device and a TFT display with driver chip **ST7789**.
 
-This is the accompanying repository for my article "**Getting started with a BME280 environment sensor connected to an ESP32-C6 Waveshare LCD device and ST7789 TFT display**":  .
+This is the accompanying repository for my article "**Getting started with a BME280 environment sensor connected to an ESP32-C6 Waveshare LCD device and ST7789 TFT display**": https://medium.com/@androidcrypto/getting-started-with-a-bme280-environment-sensor-connected-to-an-esp32-c6-waveshare-lcd-device-and-d333a0ff79a3.
 
 My display is a 1.47 inch large TFT display with 172 x 320 pixels.
 
